@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Snackbar",
+        "repositoryURL": "https://gitlab.facile.it/mobile-apps/snackbar-ios",
+        "state": {
+          "branch": null,
+          "revision": "b1a2e5aa9cba44da3d379c589afe00283b7ad974",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
